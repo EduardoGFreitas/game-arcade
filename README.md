@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Jogo do tipo arcade baseado no [![frogger](http://froggerclassic.appspot.com/)
+Jogo do tipo arcade baseado no  [frogger](http://froggerclassic.appspot.com/).
 
 ##Pontuação
 Ganha-se um ponto a cada vez que você conseguir atravessar a rua.
