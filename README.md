@@ -4,7 +4,7 @@
 
 Jogo do tipo arcade baseado no  [frogger](http://froggerclassic.appspot.com/).
 
-##Pontuação
+## Pontuação
 Ganha-se um ponto a cada vez que você conseguir atravessar a rua.
 
 ## Como Jogar
