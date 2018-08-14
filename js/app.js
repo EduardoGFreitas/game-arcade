@@ -1,5 +1,3 @@
-
-
 class Character {
     constructor(x, y, speed, sprite) {
         this._x = x;
@@ -36,7 +34,7 @@ class Enemy extends Character {
             jogador._y + 73 <= this._y + 135 &&
             jogador._x + 25 <= this._x + 88 &&
             jogador._x + 76 >= this._x + 11) {
-        console.log('collision');
+       
         gameReset();
         }
     }
@@ -104,8 +102,7 @@ function won() {
 function updateDisplay() {
     scoreDiv.innerHTML = 'Score ' + score;
 }
-// This listens for key presses and sends the keys to your
-// Player.handleInput() method. You don't need to modify this.
+
 document.addEventListener('keyup', function (e) {
     var allowedKeys = {
         37: 'left',
