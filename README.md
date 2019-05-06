@@ -1,13 +1,16 @@
 # Arcade Game
 
+## Visualizar o jogo
+[clique aqui](https://eduardogfreitas.github.io/game-arcade/)
+
 ## Instruções
 
-Jogo do tipo arcade baseado no  [frogger](http://froggerclassic.appspot.com/).
+Jogo do tipo arcade baseado no  [frogger](http://froggerclassic.appspot.com/)
 
 ## Rodando o jogo
 Baixe o projeto e abra o arquivo index com o browser de sua escolha.
 
-##Pontuação
+## Pontuação
 Ganha-se um ponto a cada vez que você conseguir atravessar a rua.
 
 ## Como Jogar
