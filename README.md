@@ -1,7 +1,7 @@
 # Arcade Game
 
 ## Visualizar o jogo
-[clique aqui](https://eduardogfreitas.github.io/game-arcade/)
+[clique aqui](https://eduardogfreitas.github.io/jogo-da-memoria/)
 
 ## Instruções
 
